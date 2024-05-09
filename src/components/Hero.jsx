@@ -25,7 +25,7 @@ const Hero = () => {
         <span className='orange_gradient'> OpenAI GPT-4</span>
       </h3>
       <h2 className='desc'>
-      Experience clarity with SummEase, your go-to tool for transforming lengthy articles into clear and concise summaries.
+      Experience clarity with SummarEase, your go-to tool for transforming lengthy articles into clear and concise summaries.
       </h2>
     </header>
   );
